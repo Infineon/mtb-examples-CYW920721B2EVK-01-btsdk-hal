@@ -1,3 +1,4 @@
+## ( deprecated: last version was 'release-v2.3.0' )
 # HAL Examples
 
 This application group demonstrates HAL. Applications included are:
